@@ -1,2 +1,2 @@
-# REST-example
-A simple REST example using Python
+# WORK IN PROGRESS
+2020 DEC 29
