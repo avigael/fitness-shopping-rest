@@ -1,6 +1,6 @@
 # Shopping API
 
-The following API can be accessed at `-`
+The following API can be accessed at `https://avigael-shop-fitness.herokuapp.com/`
 
 | Endpoint                                       | Auth Required | Token Required | Get | Post | Put | Delete |
 |------------------------------------------------|---------------|----------------|-----|------|-----|--------|
