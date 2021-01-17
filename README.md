@@ -4,11 +4,11 @@ This project is written in Python. To run this project please make sure you have
 
 This REST API is written in Python using Flask and several other libraries. The purpose of this API is to create users, authenticate them with tokens, and store their information as well as contain information on food items and shopping items for two other projects I made. These projects include a [Fitness App](https://github.com/avigael/react-native-fitness-app "Fitness App") using React Native and a [Shopping Website](https://github.com/avigael/dialogflow-shopping-site "Shopping Website") which implements a [DialogFlow](https://dialogflow.cloud.google.com/ "DialogFlow") assistant.
 
-You can read more about how to use the API in the **`/fitness`** and **`/shopping`** directories.
+### Using API
 
-#### Note:
+You can read more about how to use the API in the [**/fitness**](https://github.com/avigael/REST-example/tree/main/fitness "Fitness API") and [**/shopping**](https://github.com/avigael/REST-example/tree/main/shopping "Shop API") directories.
 
-This API is being hosted on a free service provided by Heroku. So it may take a while to start up the server. (Usually 30s - 1min)
+*Note: This API is being hosted on a free service provided by Heroku. So it may take a while to start up the server. (Usually 30s - 1min)*
 
 ## Running Locally
 **Download Repository**
