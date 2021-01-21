@@ -13,8 +13,8 @@ You can read more about how to use the API in the [**/fitness**](https://github.
 ## Running Locally
 **Download Repository**
 ```
-$ git clone https://github.com/avigael/REST-example.git
-$ cd REST-example
+$ git clone https://github.com/avigael/fitness-shopping-rest.git
+$ cd fitness-shopping-rest
 ```
 
 **Optional:** Create a virtual enviroment
